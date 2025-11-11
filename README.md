@@ -1,4 +1,4 @@
-# Internship Quiz Project - Rhombix Technologies
+# Quiz Project - Rhombix Technologies
 
 A simple console-based **Quiz Application** developed during my internship at **Rhombix Technologies**. This project demonstrates basic programming concepts, user interaction, and scoring logic in **C++**.
 
